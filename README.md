@@ -1,18 +1,18 @@
-# 🎬 YTD - YouTube Downloader GUI
+# YTD - YouTube
 
 Uma interface gráfica moderna e simples para baixar vídeos do YouTube, desenvolvida em Python.
 
 ![YTD](https://raw.githubusercontent.com/Samuel-Jordesson/YTD/refs/heads/main/Group%203.png)
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- 🎨 **Interface Moderna**: Design limpo com tema neon e modo escuro.
-- 🚀 **Fácil de Usar**: Basta colar o link e clicar em baixar.
-- ⚡ **Rápido**: Utiliza `yt-dlp` para a melhor velocidade de download.
-- 🎵 **Áudio e Vídeo**: Baixa na melhor qualidade disponível.
-- 📂 **Portátil**: Não requer instalação, basta executar o arquivo `.exe`.
+- **Interface Moderna**: Design limpo com tema neon e modo escuro.
+- **Fácil de Usar**: Basta colar o link e clicar em baixar.
+- **Rápido**: Utiliza `yt-dlp` para a melhor velocidade de download.
+- **Áudio e Vídeo**: Baixa na melhor qualidade disponível.
+- **Portátil**: Não requer instalação, basta executar o arquivo `.exe`.
 
-## 📥 Download
+## Download
 
 Baixe a versão mais recente para Windows na página de Releases:
 
@@ -20,7 +20,7 @@ Baixe a versão mais recente para Windows na página de Releases:
 
 > **Nota**: Clique no link acima e baixe o arquivo `YTD.Downloader.exe` na seção "Assets".
 
-## 🛠️ Como Executar (Código Fonte)
+## Como Executar (Código Fonte)
 
 Se preferir rodar pelo código fonte:
 
@@ -34,7 +34,7 @@ Se preferir rodar pelo código fonte:
    python youtube_downloader_gui.py
    ```
 
-## 📦 Como Compilar
+## Como Compilar
 
 Para criar seu próprio executável:
 
@@ -42,10 +42,10 @@ Para criar seu próprio executável:
 build.bat
 ```
 
-## 📋 Requisitos
+## Requisitos
 
 - Windows 10/11
 - Conexão com Internet
 
 ---
-Desenvolvido com ❤️ e Python.
+Desenvolvido por Samuel Jordesson
