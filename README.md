@@ -16,7 +16,7 @@ Uma interface gráfica moderna e simples para baixar vídeos do YouTube, desenvo
 
 Baixe a versão mais recente para Windows na página de Releases:
 
-[![Baixar YTD](https://img.shields.io/badge/Download-YTD%20Downloader-C8FF00?style=for-the-badge&logo=windows&logoColor=black)](https://github.com/Samuel-Jordesson/YTD/releases](https://github.com/Samuel-Jordesson/YTD/releases/download/v1.0/YTD.Downloader.exe))
+[![Baixar YTD](https://img.shields.io/badge/Download-YTD%20Downloader-C8FF00?style=for-the-badge&logo=windows&logoColor=black)](https://github.com/Samuel-Jordesson/YTD/releases/download/v1.0/YTD.Downloader.exe)
 
 > **Nota**: Clique no link acima e baixe o arquivo `YTD.Downloader.exe` na seção "Assets".
 
