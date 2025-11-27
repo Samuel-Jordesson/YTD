@@ -2,7 +2,7 @@
 
 Uma interface gráfica moderna e simples para baixar vídeos do YouTube, desenvolvida em Python.
 
-![YTD](Group 3.png)
+![YTD](https://raw.githubusercontent.com/Samuel-Jordesson/YTD/refs/heads/main/Group%203.png)
 
 ## ✨ Funcionalidades
 
